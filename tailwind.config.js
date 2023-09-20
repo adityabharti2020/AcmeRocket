@@ -1,9 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./Bulid/*.html'],
+  content: ['./Build/*.html'],
   theme: {
     extend: {},
   },
   plugins: [],
 }
+
+
 
